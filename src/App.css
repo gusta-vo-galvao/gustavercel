@@ -21,7 +21,7 @@ img{
   .buttons {
     position: absolute;
     bottom: 300px; 
-    left: 45%;
+    left: 52%;
     transform: translateX(-50%);
   }
   .yes-button, .no-button {
