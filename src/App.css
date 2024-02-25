@@ -4,7 +4,7 @@
   }
 
 img{ 
-    width: 1130px;
+    width: 1300px;
     height: 650px;
       
 }
@@ -21,7 +21,7 @@ img{
   .buttons {
     position: absolute;
     bottom: 300px; 
-    left: 50%;
+    left: 45%;
     transform: translateX(-50%);
   }
   .yes-button, .no-button {
